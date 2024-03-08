@@ -3,10 +3,9 @@ body{
 }
 
 .imageBordaRadius {
-  border: 3px solid #000;
-  border-radius: 8%;
-  width: 30%;
-  height: 30%;
+ border-radius: 8%;
+  width: 10%;
+  height: 10%;
 }
 
 
