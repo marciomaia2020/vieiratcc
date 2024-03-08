@@ -2,10 +2,18 @@ body{
   background-color:black;
 }
 
-.marca .logo{
-  height: min-content;
-  border-radius: 50%;
+.imageBordaRadius {
+  border: 3px solid #000;
+  border-radius: 8%;
+  width: 30%;
+  height: 30%;
 }
+
+
+.logo{
+align-self: auto;
+}
+
 
 .menu{
   text-align:center;
@@ -13,7 +21,14 @@ body{
   flex-direction: row;
   gap: 1.5rem;
   color:white; 
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: 40%;
+  margin-right: auto;
 }
+
+
+/*
 
 * {box-sizing:border-box}
 
@@ -102,6 +117,6 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
-  
+  */
 
 
