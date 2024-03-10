@@ -1,19 +1,19 @@
+
+* {
+font-family: 'Times New Roman', Times, serif;
+font-size: 24px;
+}
 body{
   background-color:black;
 }
-
 .imageBordaRadius {
  border-radius: 8%;
   width: 10%;
   height: 10%;
 }
-
-
 .logo{
 align-self: auto;
 }
-
-
 .menu{
   text-align:center;
   display: flex;
@@ -22,10 +22,9 @@ align-self: auto;
   color:white; 
   margin-top: 1%;
   margin-bottom: 1%;
-  margin-left: 40%;
-  margin-right: auto;
-}
-
+  margin-left: 50%;
+  margin-right: 50%;
+  }
 
 /*
 
